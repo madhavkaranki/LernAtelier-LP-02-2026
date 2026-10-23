@@ -1,42 +1,53 @@
 # Lern-Periode 1
 
-- Name: Exemplibus Exemplio
-- Zeitraum: 12.08.2024 bis 29.09.2024
+Madhav Karanki
+
+* **Zeitraum:** 23.10.2026 bis 30.11.2026
 
 ## Grob-Planung
 
 ### Noten
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+
+* Keine Angaben.
 
 ### Veränderungen
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
 
-### Projekte / neue Technologien
-Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+* Keine Veränderungen nötig – die letzte Lernperiode ist gut gelaufen.
+
+### Projekte / Neue Technologien
+
+* Eigenes Spiel erstellen.
 
 ### Generelle Ziele
-Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+
+* \[ \] Alle Module vollständig und erfolgreich abschließen.
+
+* \[ \] Planung und Entwicklung des eigenen Spielprojekts starten.
 
 ## Tagesplanungen
 
-### Planung 16.08.2024
-3 bis 5 klar messbare Arbeitspakete.
+### Freitag, 23.10.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+#### Arbeitspakete
 
-(Heute habe ich... (50-100 Wörter))
+* \[ \] Mit allen Modulen fertig werden
 
+* Status: 🟡 *In Arbeit*
 
-### Planung 23.08.2024
-3 bis 5 klar messbare Arbeitspakete.
+#### Reflexion
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+---------------------
 
-(Heute habe ich... (50-100 Wörter))
+### Freitag, 30.10.2026
+
+#### Arbeitspakete
+
+* \[ \] Am eigenen Spielprojekt weiterarbeiten
+
+* Status: 🔴 *Noch nicht angefangen*
+
+#### Reflexion
+-------
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+------------------
