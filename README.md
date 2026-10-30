@@ -32,7 +32,7 @@ Madhav Karanki
 
 * \[ \] Mit allen Modulen fertig werden
 
-* Status: 🟡 *In Arbeit*
+* Status: grün *In Arbeit*
 
 #### Reflexion
 
@@ -44,10 +44,12 @@ Madhav Karanki
 
 * \[ \] Am eigenen Spielprojekt weiterarbeiten
 
-* Status: 🔴 *Noch nicht angefangen*
+* Status: in arbei 
 
 #### Reflexion
 -------
 
 ## Lernperiode Reflexion
+
+
 ------------------
