@@ -47,6 +47,10 @@ Madhav Karanki
 * Status: in arbei 
 
 #### Reflexion
+
+### Freitag, 6.10.2026
+
+* Beim eigenen Projekt arbeiten und beim Freifach weiterarbeiten
 -------
 
 ## Lernperiode Reflexion
