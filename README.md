@@ -52,6 +52,9 @@ Madhav Karanki
 
 * Beim eigenen Projekt arbeiten und beim Freifach weiterarbeiten
 -------
+### Freitag, 13.10.2026
+
+* Beim Projekt weiterarbeiten
 
 ## Lernperiode Reflexion
 
