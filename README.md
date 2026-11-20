@@ -1,4 +1,4 @@
-# Lern-Periode 1
+# Lern-Periode 2
 
 Madhav Karanki
 
@@ -58,9 +58,15 @@ Madhav Karanki
 
 ### Freitag 20.11.2026
 
-* Projekt fertig machen
+* Projekt fertig programmieren
+
+
+### Freitag 20.11.2026
+
+* Beim Freifach weiterarbeiten
 
 ## Lernperiode Reflexion
+
 
 
 ------------------
